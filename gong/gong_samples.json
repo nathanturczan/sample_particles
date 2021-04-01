@@ -1,0 +1,16 @@
+{
+        "gong_0":  {"note_names": ["gs", "a", "b", "c"]},
+        "gong_1":  {"note_names": ["fs", "a", "b", "d", "ds", "f"]},
+        "gong_2":  {"note_names": ["gs", "a", "b", "ds", "e"]},
+        "gong_3":  {"note_names": ["fs", "gs", "as", "b", "d", "e"]},
+        "gong_4":  {"note_names": ["b", "c", "ds", "f", "fs"]},
+        "gong_5":  {"note_names": ["d", "f", "fs", "gs", "a"]},
+        "gong_6":  {"note_names": ["e", "f", "gs", "a", "b", "d"]},
+        "gong_7":  {"note_names": ["e", "f", "gs", "b", "d", "ds"]},
+        "gong_8":  {"note_names": ["gs", "a", "ds"]},
+        "gong_9":  {"note_names": ["e", "f", "gs"]},
+        "gong_10":  {"note_names": ["gs", "ds", "as"]},
+        "gong_11":  {"note_names": ["gs", "b", "c", "ds", "e"]},
+        "gong_12":  {"note_names": ["e", "ds"]},
+        "gong_13":  {"note_names": ["b", "ds", "e", "fs"]}
+}
