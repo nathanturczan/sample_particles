@@ -1,0 +1,101 @@
+{
+	"RavelDebussy1_1": {"note_names": ["g", "a", "c", "e"]},
+	"RavelDebussy1_2": {"note_names": ["e", "b", "d", "fs", "g"]},
+	"RavelDebussy1_3": {"note_names": ["d", "fs", "b", "c", "e", "a"]},
+	"RavelDebussy1_4": {"note_names": ["ef", "df", "f", "gf", "bf"]},
+	"RavelDebussy1_5": {"note_names": ["c", "bf", "c", "e", "a"]},
+
+	"RavelDebussy2_1": {"note_names": ["ef", "d", "f", "gf", "bf"]},
+	"RavelDebussy2_2": {"note_names": ["e", "g", "b", "c"]},
+	"RavelDebussy2_3": {"note_names": ["a", "e", "f", "cs", "gs"]},
+	"RavelDebussy2_4": {"note_names": ["e", "g", "bf", "d"]},
+	"RavelDebussy2_5": {"note_names": ["d", "f", "a", "b"]},
+
+	"Stravinsky_1": {"note_names": ["e", "g", "bf", "d", "fs"]},
+	"Stravinsky_2": {"note_names": ["e", "fs", "bf", "d"]},
+	"Stravinsky_3": {"note_names": ["g", "f", "b", "cs", "f"]},
+	"Stravinsky_4": {"note_names": ["a", "b", "cs", "e", "b"]},
+	"Stravinsky_5": {"note_names": ["ef", "c", "d", "fs"]},
+
+	"Messiaen_1": {"note_names": ["e", "b", "d", "fs", "g", "cs"]},
+	"Messiaen_2": {"note_names": ["a", "cs", "a", "ds", "e"]},
+	"Messiaen_3": {"note_names": ["f", "d", "ef", "af"]},
+	"Messiaen_4": {"note_names": ["a", "bf", "df", "bf"]},
+	"Messiaen_5": {"note_names": ["af", "b", "cs", "f", "as"]},
+
+	"Ives_1": {"note_names": ["a", "d", "bf", "g"]},
+	"Ives_2": {"note_names": ["fs", "d", "f", "a"]},
+	"Ives_3": {"note_names": ["cs", "a", "bf", "d"]},
+	"Ives_4": {"note_names": ["gs", "d", "fs", "bf", "e"]},
+	"Ives_5": {"note_names": ["f", "d", "g", "cs", "f"]},
+
+	"Tchaikovsky_1": {"note_names": ["fs", "as", "g", "e"]},
+	"Tchaikovsky_2": {"note_names": ["a", "c", "f", "e"]},
+	"Tchaikovsky_3": {"note_names": ["g", "ds", "fs", "c"]},
+	"Tchaikovsky_4": {"note_names": ["d", "a", "cs", "g", "a"]},
+	"Tchaikovsky_5": {"note_names": ["ds", "a", "fs", "c"]},
+
+	"Schoenberg1_1": {"note_names": ["af", "d", "b", "g"]},
+	"Schoenberg1_2": {"note_names": ["af", "e", "af", "ds"]},
+	"Schoenberg1_3": {"note_names": ["g", "fs", "c", "b"]},
+	"Schoenberg1_4": {"note_names": ["g", "ef", "gf", "bf", "d"]},
+	"Schoenberg1_5": {"note_names": ["b", "as", "d", "gs"]},
+
+	"Schoenberg2_1": {"note_names": ["cs", "bf", "f", "a"]},
+	"Schoenberg2_2": {"note_names": ["d", "a", "c", "e", "gs"]},
+	"Schoenberg2_3": {"note_names": ["d", "f", "c", "e", "bf"]},
+	"Schoenberg2_4": {"note_names": ["d", "fs", "bf", "df", "f"]},
+	"Schoenberg2_5": {"note_names": ["e", "gs", "cs", "f", "c"]},
+
+	"Bartok_1": {"note_names": ["cs", "cs", "g", "b", "b"]},
+	"Bartok_2": {"note_names": ["af", "d", "e", "g"]},
+	"Bartok_3": {"note_names": ["bf", "f", "b", "g"]},
+	"Bartok_4": {"note_names": ["gs", "cs", "d", "g", "g"]},
+	"Bartok_5": {"note_names": ["ef", "gs", "e", "a"]},
+
+	"Schnittke_1": {"note_names": ["fs", "c", "b", "f"]},
+	"Schnittke_2": {"note_names": ["f", "d", "b", "gs"]},
+	"Schnittke_3": {"note_names": ["e", "bf", "b", "f"]},
+	"Schnittke_4": {"note_names": ["bf", "c", "d", "fs", "b"]},
+	"Schnittke_5": {"note_names": ["fs", "b", "c", "f"]},
+
+	"Webern_1": {"note_names": ["e", "a", "f", "gs", "cs"]},
+	"Webern_2": {"note_names": ["ef", "a", "d", "cs"]},
+	"Webern_3": {"note_names": ["a", "f", "b", "d", "bf"]},
+	"Webern_4": {"note_names": ["ef", "gf", "f", "b"]},
+	"Webern_5": {"note_names": ["g", "b", "e", "ef"]},
+
+	"Satie_1": {"note_names": ["c", "gf", "bf", "ef", "af"]},
+	"Satie_2": {"note_names": ["gf", "ef", "bf", "ef", "gf"]},
+	"Satie_3": {"note_names": ["af", "df", "f", "b", "ef"]},
+	"Satie_4": {"note_names": ["ds", "b", "fs", "as", "ds"]},
+	"Satie_5": {"note_names": ["df", "f", "c", "ef", "af"]},
+
+	"Scriabin_1": {"note_names": ["a", "cs", "a", "e", "b"]},
+	"Scriabin_2": {"note_names": ["b", "e", "fs", "ds"]},
+	"Scriabin_3": {"note_names": ["c", "a", "fs", "bf", "e", "a", "d"]},
+	"Scriabin_4": {"note_names": ["b", "ds", "fs", "gs"]},
+	"Scriabin_5": {"note_names": ["gs", "c", "e", "fs"]},
+
+	"Chopin_1": {"note_names": ["b", "cs", "g", "fs"]},
+	"Chopin_2": {"note_names": ["bf", "b", "d", "af", "g"]},
+	"Chopin_3": {"note_names": ["e", "a", "b", "ds"]},
+	"Chopin_4": {"note_names": ["a", "ef", "a", "c", "g", "c"]},
+	"Chopin_5": {"note_names": ["g", "bf", "e", "c"]},
+
+	"Prokofiev_1": {"note_names": ["b", "d", "a", "e"]},
+	"Prokofiev_2": {"note_names": ["g", "ds", "b", "fs"]},
+	"Prokofiev_3": {"note_names": ["df", "gf", "ef", "bf"]},
+	"Prokofiev_4": {"note_names": ["c", "df", "f", "d"]},
+	"Prokofiev_5": {"note_names": ["ds", "gs", "fs", "b"]},
+
+	"Shostakovich_1": {"note_names": ["a", "g", "b", "c"]},
+	"Shostakovich_2": {"note_names": ["bf", "gf", "bf", "ef"]},
+	"Shostakovich_3": {"note_names": ["e", "d", "f", "bf"]},
+	"Shostakovich_4": {"note_names": ["a", "bf", "df", "g"]},
+	"Shostakovich_5": {"note_names": ["c", "f", "df", "ef"]},
+
+	"Beglarian_1": {"note_names": ["e", "fs", "g", "a", "b", "c"]}
+
+
+}
