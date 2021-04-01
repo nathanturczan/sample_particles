@@ -1,0 +1,32 @@
+{
+        "A_pez": {
+                "note_names": ["a"]
+        },
+        "Af_pez": {
+                "note_names": ["af"]
+        },
+        "B_pez": {
+                "note_names": ["b"]
+        },
+        "F_pez": {
+                "note_names": ["f"]
+        },
+        "LaMonteGuitar": {
+                "note_names": ["b", "fs"]
+        },
+        "LigetiRicercata": {
+                "note_names": ["a"]
+        },
+        "Moondog": {
+                "note_names": ["a"]
+        },
+        "OneNoteChristopherHobbs": {
+                "note_names": ["d"]
+        },
+        "ttdrone": {
+                "note_names": ["a", "ds"]
+        },
+        "VENI": {
+                "note_names": ["b", "fs"]
+        }
+}
