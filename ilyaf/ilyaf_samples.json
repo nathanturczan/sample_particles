@@ -1,0 +1,17 @@
+{
+	"ilyaf_1":  {"note_names": ["c", "d", "g"]},
+	"ilyaf_2":  {"note_names": ["e", "c", "g", "d"]},
+	"ilyaf_3":  {"note_names": ["f", "a", "c",  "g"]},
+	"ilyaf_4":  {"note_names": ["bf", "c", "d", "f"]},
+	"ilyaf_5":  {"note_names": ["c", "d", "g"]},
+	"ilyaf_6":  {"note_names": ["e", "c", "g", "d"]},
+	"ilyaf_7":  {"note_names": ["f", "c", "e", "g"]},
+	"ilyaf_8":  {"note_names": ["bf", "c", "d", "f"]},
+	"ilyaf_9":  {"note_names": ["c", "d", "g"]},
+	"ilyaf_10":  {"note_names": ["e", "c", "g", "d"]},
+	"ilyaf_11":  {"note_names": ["f", "a", "c",  "g"]},
+	"ilyaf_12":  {"note_names": ["bf", "c", "d", "f"]},
+	"ilyaf_13":  {"note_names": ["c", "d", "g"]},
+	"ilyaf_14":  {"note_names": ["e", "c", "g", "d"]},
+	"ilyaf_15":  {"note_names": ["f", "a", "c",  "g"]}
+}
