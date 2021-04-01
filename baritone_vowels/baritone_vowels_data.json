@@ -1,0 +1,2160 @@
+{
+	"2-Audio 0005 [2018-12-21 114103]": {
+		"note_names": [],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"A# 1 0003 [2018-12-21 120431]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"A# 1 0004 [2018-12-21 120451]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"A# 1 0006 [2018-12-21 120557]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"A# 1 0007 [2018-12-21 120606]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"A#2 2 [2019-03-22 120750]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"A#2 5 [2019-03-22 121038]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"A#3 ae FF [2018-12-09 140323]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"A#3 ae MF [2018-12-09 140314]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"A#3 ae PP [2018-12-09 140318]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"A#3 i FF [2018-12-09 140332]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"A#3 i MF [2018-12-09 140327]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"A#3 i PP [2018-12-09 140329]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"A#3 o FF [2018-12-09 140340]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"A#3 o MF [2018-12-09 140334]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"A#3 o PP [2018-12-09 140337]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"A#3 uh FF [2018-12-09 140311]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"A#3 uh MF [2018-12-09 140305]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"A#3 uh PP [2018-12-09 140308]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"A1 0001 [2018-12-21 115813]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"A1 0002 [2018-12-21 115818]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"A1 0004 [2018-12-21 115940]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"A1 0005 [2018-12-21 120012]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"A2 2 [2019-03-22 120334]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"A2 4 [2019-03-22 120508]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"A3 ae FF [2018-12-09 140359]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"A3 ae MF [2018-12-09 140352]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"A3 ae PP [2018-12-09 140355]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"A3 i FF [2018-12-09 140408]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"A3 i MF [2018-12-09 140402]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"A3 i PP [2018-12-09 140405]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"A3 o FF [2018-12-09 140417]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"A3 o MF [2018-12-09 140411]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"A3 o PP [2018-12-09 140414]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"A3 uh FF [2018-12-09 140349]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"A3 uh MF [2018-12-09 140344]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"A3 uh PP [2018-12-09 140347]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"AH pp C#3 [2019-03-22 131353]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"AH pp C3 [2019-03-22 122043]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"AH pp D3 [2019-03-22 131341]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"AH pp E3 [2019-03-22 124230]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"AH pp F3 [2019-03-22 131330]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"AH pp G#2 [2019-03-22 131423]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"AH pp G2 4 [2019-03-22 115319]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"B1 0001 [2018-12-21 121058]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"B1 0002 [2018-12-21 121129]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"B1 0003 [2018-12-21 121423]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"B1 0004 [2018-12-21 121543]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"B2 1 [2019-03-22 121336]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"B2 2 [2019-03-22 121433]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"B3 ae FF [2018-12-09 140229]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"B3 ae MF [2018-12-09 140225]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"B3 ae PP [2018-12-09 140227]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"B3 i FF [2018-12-09 140248]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"B3 i MF [2018-12-09 140236]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"B3 i PP [2018-12-09 140245]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"B3 o FF [2018-12-09 140301]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"B3 o MF [2018-12-09 140254]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"B3 o PP [2018-12-09 140257]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"B3 uh FF [2018-12-09 140221]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"B3 uh MF [2018-12-09 140210]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"B3 uh PP  [2018-12-09 140217]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"C# 2 0001 [2018-12-21 122738]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C# 2 0002 [2018-12-21 122741]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C# 2 0003 [2018-12-21 122814]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C# 2 0005 [2018-12-21 122908]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C#3 1 [2019-03-22 122232]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C#3 4 [2019-03-22 122541]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C#4 ae FF [2018-12-09 140058]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"C#4 ae MF [2018-12-09 140050]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C#4 ae PP [2018-12-09 140055]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"C#4 i FF [2018-12-09 140107]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"C#4 i MF [2018-12-09 140101]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"C#4 i PP [2018-12-09 140105]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"C#4 o FF [2018-12-09 140116]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"C#4 o MF [2018-12-09 140110]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"C#4 o PP [2018-12-09 140113]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"C#4 uh FF [2018-12-09 135943]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"C#4 uh MF [2018-12-09 135936]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"C#4 uh PP [2018-12-09 135940]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"C2 0002 [2018-12-21 121844]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"C2 0003 [2018-12-21 121922]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"C2 0004 [2018-12-21 121952]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"C2 0005 [2018-12-21 122030]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"C3 4 [2019-03-22 122030]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"C4 ae FF [2018-12-09 140146]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"C4 ae PP [2018-12-09 140140]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"C4 i FF [2018-12-09 140156]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"C4 i MF [2018-12-09 140150]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"C4 i PP [2018-12-09 140154]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"C4 o FF [2018-12-09 140205]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"C4 o MF [2018-12-09 140159]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"C4 o PP [2018-12-09 140202]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"C4 uh FF [2018-12-09 140132]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"C4 uh MF [2018-12-09 140120]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"C4 uh PP [2018-12-09 140128]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"D#2 0002 [2018-12-21 123603]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#2 0003 [2018-12-21 123618]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#2 0004 [2018-12-21 123716]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#2 0005 [2018-12-21 123736]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#3 0001 [2019-03-22 123119]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#3 2 [2019-03-22 123253]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#3 ae FF [2018-12-09 141723]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ds"
+	},
+	"D#3 ae MF [2018-12-09 141652]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#3 ae PP [2018-12-09 141703]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"D#3 i FF [2018-12-09 141755]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"D#3 i MF [2018-12-09 141743]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"D#3 i PP [2018-12-09 141749]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"D#3 o FF [2018-12-09 141826]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"D#3 o MF [2018-12-09 141818]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"D#3 o PP [2018-12-09 141824]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"D#3 uh FF [2018-12-09 141642]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"D#3 uh MF [2018-12-09 141622]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"D#3 uh PP [2018-12-09 141627]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"D#4 10 [2018-12-21 200613]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#4 I MF [2018-12-21 202902]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"D#4 ae FF [2018-12-21 200608]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"D#4 ae MF [2018-12-21 200601]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D#4 ae PP [2018-12-21 200606]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"D#4 i PP [2018-12-21 200611]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"D#4 o FF [2018-12-21 200619]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"D#4 o MF [2018-12-21 200615]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"D#4 o PP [2018-12-21 200617]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"D#4 uh FF [2018-12-21 200559]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"D#4 uh MF [2018-12-21 200554]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"D#4 uh PP [2018-12-21 200557]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"D2 0003 [2018-12-21 123030]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"D2 0004 [2018-12-21 123227]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D2 0005 [2018-12-21 123417]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"D2 0006 [2018-12-21 123459]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"D3 4 [2019-03-22 122924]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"D3 ae FF [2018-12-09 141905]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"D3 ae MF [2018-12-09 141850]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D3 ae PP [2018-12-09 141855]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"D3 i FF [2018-12-09 141917]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"D3 i MF [2018-12-09 141908]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"D3 i PP [2018-12-09 141914]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"D3 o FF [2018-12-09 141947]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"D3 o MF [2018-12-09 141929]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"D3 o PP [2018-12-09 141940]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"D3 uh FF [2018-12-09 141840]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"D3 uh MF [2018-12-09 141831]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"D3 uh PP [2018-12-09 141836]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"D4 ae FF [2018-12-21 200634]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"D4 ae MF [2018-12-21 200639]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"D4 ae PP [2018-12-21 200636]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"D4 i FF [2018-12-21 200628]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"D4 i MF [2018-12-21 200632]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"D4 i PP [2018-12-21 200630]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"D4 o FF [2018-12-21 200622]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"D4 o MF [2018-12-21 200626]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"D4 o PP [2018-12-21 200624]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"D4 uh FF [2018-12-21 200641]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"D4 uh MF [2018-12-21 200644]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"D4 uh PP [2018-12-21 200643]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"E2 0002 [2018-12-21 123850]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"E2 0003 [2018-12-21 123918]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"E2 0004 [2018-12-21 123940]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"E2 0005 [2018-12-21 124003]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"E3 1 [2019-03-22 123730]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"E3 3 [2019-03-22 123848]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"E3 ae FF [2018-12-09 141453]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"E3 ae MF [2018-12-09 141434]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"E3 ae PP [2018-12-09 141449]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"E3 i FF [2018-12-09 141528]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"E3 i MF [2018-12-09 141509]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"E3 i PP [2018-12-09 141520]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"E3 o FF [2018-12-09 141601]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"E3 o MF [2018-12-09 141543]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"E3 o PP [2018-12-09 141557]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"E3 uh FF [2018-12-09 141420]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"E3 uh MF [2018-12-09 141354]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"E3 uh PP [2018-12-09 141408]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"E4 ae FF [2018-12-21 200550]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"E4 ae MF [2018-12-21 200548]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"E4 ae PP [2018-12-21 200552]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"E4 uh FF [2018-12-21 200546]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"E4 uh MF [2018-12-21 200541]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"E4 uh PP [2018-12-21 200544]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"F# 3 ae FF [2018-12-09 140922]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"F# 3 ae MF [2018-12-09 140837]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"F# 3 ae PP [2018-12-09 140917]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"F# 3 i FF [2018-12-09 141002]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"F# 3 i MF [2018-12-09 140934]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"F# 3 i PP [2018-12-09 140943]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"F# 3 o FF [2018-12-09 141047]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"F# 3 o MF [2018-12-09 141013]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"F# 3 o PP [2018-12-09 141027]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"F# 3 uh FF [2018-12-09 140820]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"F# 3 uh PP [2018-12-09 140738]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"F#2 0002 [2018-12-21 125329]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"F#2 0003 [2018-12-21 125837]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"F#2 0004 [2018-12-21 125838]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"F#2 0005 [2018-12-21 125913]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"F#3 1 [2019-03-22 131009]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"F#3 2 [2019-03-22 131045]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"F#3 uh MF [2018-12-09 140728]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"F2 0001 [2018-12-21 124102]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"F2 0002 [2018-12-21 124103]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"F2 0003 [2018-12-21 125202]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"F2 0004 [2018-12-21 125236]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"F3 ae FF [2018-12-09 141223]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"F3 ae MF [2018-12-09 141157]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"F3 ae PP [2018-12-09 141209]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"F3 i FF [2018-12-09 141308]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"F3 i MF [2018-12-09 141238]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"F3 i PP [2018-12-09 141254]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"F3 o FF [2018-12-09 141337]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"F3 o MF [2018-12-09 141321]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"F3 o PP [2018-12-09 141324]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"F3 uh FF [2018-12-09 141141]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"F3 uh MF [2018-12-09 141112]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"F3 uh PP [2018-12-09 141124]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"G#1 0002 [2018-12-21 114807]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"G#1 0004 [2018-12-21 114944]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"G#1 0005 [2018-12-21 115536]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"G#1 0006 [2018-12-21 115605]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"G#2 8 [2019-03-22 120141]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"G#3 FF [2018-12-09 140456]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"G#3 ae FF [2018-12-09 140509]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"G#3 ae MF [2018-12-09 140524]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"G#3 ae PP [2018-12-09 140513]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"G#3 i MF [2018-12-09 140502]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	},
+	"G#3 i PP [2018-12-09 140500]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"G#3 o FF [2018-12-09 140442]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"G#3 o MF [2018-12-09 140448]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"G#3 o PP [2018-12-09 140445]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"G#3 uh FF [2018-12-09 140535]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "uh"
+	},
+	"G#3 uh MF [2018-12-09 140433]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"G#3 uh PP [2018-12-09 140545]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"G1 0008 [2018-12-21 114400]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"G1 0009 [2018-12-21 114419]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"G1 0010 [2018-12-21 114435]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"G3 ae FF [2018-12-09 140640]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "ae"
+	},
+	"G3 ae MF [2018-12-09 140625]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"G3 ae PP [2018-12-09 140630]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "ae"
+	},
+	"G3 i FF [2018-12-09 140700]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "i"
+	},
+	"G3 i PP [2018-12-09 140656]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"G3 o FF [2018-12-09 140716]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "ff",
+		"vowel": "o"
+	},
+	"G3 o MF [2018-12-09 140703]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "o"
+	},
+	"G3 o PP [2018-12-09 140712]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "o"
+	},
+	"G3 uh MF [2018-12-09 140557]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"G3 uh MFF [2018-12-09 140617]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"G3 uh PP [2018-12-09 140607]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"I pp A#2 [2019-03-22 121101]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp A2 [2019-03-22 120531]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp B2 [2019-03-22 131410]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp C#3 [2019-03-22 131356]": {
+		"note_names": [
+			"cs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp D#3 [2019-03-22 123601]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp F#3  [2019-03-22 131321]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp F3 [2019-03-22 130903]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp G#2 [2019-03-22 121127]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"I pp G2 2 [2019-03-22 131433]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "i"
+	},
+	"OH pp B2 [2019-03-22 131413]": {
+		"note_names": [
+			"b"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"OH pp C3 [2019-03-22 131359]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"OH pp D#3 [2019-03-22 123520]": {
+		"note_names": [
+			"ds"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"OH pp F#3 [2019-03-22 131325]": {
+		"note_names": [
+			"fs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"OH pp D3 [2019-03-22 131345]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"OH pp E3 [2019-03-22 124222]": {
+		"note_names": [
+			"e"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"OH pp G2 3 [2019-03-22 131436]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"Oh pp F3 [2019-03-22 130900]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "oh"
+	},
+	"UH pp A#2 [2019-03-22 121056]": {
+		"note_names": [
+			"as"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"UH pp A2 [2019-03-22 120536]": {
+		"note_names": [
+			"a"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"UH pp C3 [2019-03-22 122047]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "nathan",
+		"dynamic": "mf",
+		"vowel": "uh"
+	},
+	"UH pp D3 [2019-03-22 131349]": {
+		"note_names": [
+			"d"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"UH pp F3 [2019-03-22 124714]": {
+		"note_names": [
+			"f"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"UH pp G#2 [2019-03-22 121207]": {
+		"note_names": [
+			"gs"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"UH pp G2 [2019-03-22 131427]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "nathan",
+		"dynamic": "pp",
+		"vowel": "uh"
+	},
+	"c4 ae MF [2018-12-09 140134]": {
+		"note_names": [
+			"c"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "ae"
+	},
+	"g3 i MF [2018-12-09 140644]": {
+		"note_names": [
+			"g"
+		],
+		"singer": "tanner",
+		"dynamic": "mf",
+		"vowel": "i"
+	}
+}
