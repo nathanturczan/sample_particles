@@ -1,0 +1,17 @@
+{
+	"rhcp_1":  {"note_names": ["d", "fs", "a"]},
+	"rhcp_2":  {"note_names": ["gs", "a", "b", "cs"]},
+	"rhcp_3":  {"note_names": ["fs", "as", "cs"]},
+	"rhcp_4":  {"note_names": ["b", "d", "e", "fs"]},
+	"rhcp_5":  {"note_names": ["cs", "d", "e", "fs", "a"]},
+	"rhcp_6":  {"note_names": ["d", "e", "fs", "gs", "a"]},
+	"rhcp_7":  {"note_names": ["fs", "as", "cs"]},
+	"rhcp_8":  {"note_names": ["b", "d", "e", "fs"]},
+	"rhcp_9":  {"note_names": ["cs", "d", "fs", "a"]},
+	"rhcp_10":  {"note_names": ["gs", "a", "b", "cs"]},
+	"rhcp_11":  {"note_names": ["fs", "as", "cs"]},
+	"rhcp_12":  {"note_names": ["b", "d", "e", "fs"]},
+	"rhcp_13":  {"note_names": ["cs", "d", "e", "fs", "a"]},
+	"rhcp_14":  {"note_names": ["d", "e", "fs", "gs", "a"]},
+	"rhcp_15":  {"note_names": ["fs", "as", "cs"]}
+}
