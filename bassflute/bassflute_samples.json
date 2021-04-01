@@ -1,0 +1,22 @@
+{
+	"bassflute_1": {"note_names": ["e"]},
+	"bassflute_2": {"note_names": ["e"]},
+	"bassflute_3": {"note_names": ["e"]},
+	"bassflute_4": {"note_names": ["e"]},
+	"bassflute_5": {"note_names": ["b"]},
+	"bassflute_6": {"note_names": ["fs", "cs", "d"]},
+	"bassflute_7": {"note_names": ["d"]},
+	"bassflute_8": {"note_names": ["c"]},
+	"bassflute_9": {"note_names": ["af"]},
+	"bassflute_10": {"note_names": ["b", "d"]},
+	"bassflute_11": {"note_names": ["fs"]},
+	"bassflute_12": {"note_names": ["a"]},
+	"bassflute_13": {"note_names": ["ef"]},
+	"bassflute_14": {"note_names": ["b", "cs", "d"]},
+	"bassflute_15": {"note_names": ["cs"]},
+	"bassflute_16": {"note_names": ["e"]},
+	"bassflute_17": {"note_names": ["ef"]},
+	"bassflute_18": {"note_names": ["f", "c", "cs"]},
+	"bassflute_19": {"note_names": ["e"]},
+	"bassflute_20": {"note_names": ["a"]}
+}
