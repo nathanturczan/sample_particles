@@ -1,0 +1,47 @@
+{
+        "yoshimatsu_strings_1": {
+                "note_names": ["e", "fs", "a", "g", "b", "d"]
+        },
+        "yoshimatsu_strings_2": {
+                "note_names": ["e", "fs", "g", "b", "a", "c", "d"]
+        },
+        "yoshimatsu_strings_3": {
+                "note_names": ["e", "d", "fs", "g", "c", "a", "b"]
+        },
+        "yoshimatsu_strings_4": {
+                "note_names": ["e", "fs", "g", "a", "b", "c"]
+        },
+        "yoshimatsu_strings_5": {
+                "note_names": ["e", "d", "fs", "g", "c", "a", "b"]
+        },
+        "yoshimatsu_strings_6": {
+                "note_names": ["e", "fs", "g", "a", "b", "d"]
+        },
+        "yoshimatsu_strings_7": {
+                "note_names": ["e", "d", "fs", "g", "a", "b"]
+        },
+        "yoshimatsu_strings_8": {
+                "note_names": ["e", "c", "g", "b"]
+        },
+        "yoshimatsu_strings_9": {
+                "note_names": ["e", "d", "fs", "g", "c", "a", "b"]
+        },
+        "yoshimatsu_strings_10": {
+                "note_names": ["e", "d", "fs", "g", "c", "a", "b"]
+        },
+        "yoshimatsu_strings_11": {
+                "note_names": ["e", "d", "fs", "g", "c", "a", "b"]
+        },
+        "yoshimatsu_strings_12": {
+                "note_names": ["e", "d", "fs", "g", "c", "a", "b"]
+        },
+        "yoshimatsu_strings_13": {
+                "note_names": ["e", "d", "g", "a", "b"]
+        },
+        "yoshimatsu_strings_14": {
+                "note_names": ["e", "b", "d", "a"]
+        },
+        "yoshimatsu_strings_15": {
+                "note_names": ["e", "d", "fs", "b"]
+        }
+}
