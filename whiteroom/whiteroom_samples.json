@@ -1,0 +1,11 @@
+{
+	"whiteroom_1":  {"note_names": ["g", "bf", "d"]},
+	"whiteroom_2":  {"note_names": ["f", "a", "c"]},
+	"whiteroom_3":  {"note_names": ["d", "f", "a"]},
+	"whiteroom_4":  {"note_names": ["c", "e", "g"]},
+	"whiteroom_5":  {"note_names": ["g", "bf", "d"]},
+	"whiteroom_6":  {"note_names": ["f", "a", "c"]},
+	"whiteroom_7":  {"note_names": ["d", "f", "a"]},
+	"whiteroom_8":  {"note_names": ["c", "e", "g"]},
+	"whiteroom_9":  {"note_names": ["a", "c", "e"]}
+}
