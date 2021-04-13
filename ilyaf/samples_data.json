@@ -6,7 +6,7 @@
 	"ilyaf_5":  {"note_names": ["c", "d", "g"]},
 	"ilyaf_6":  {"note_names": ["e", "c", "g", "d"]},
 	"ilyaf_7":  {"note_names": ["f", "c", "e", "g"]},
-	"ilyaf_8":  {"note_names": ["bf", "c", "d", "f"]},
+	"ilyaf_8":  {"note_names": ["bf", "c", "d", "e", "f", "g"]},
 	"ilyaf_9":  {"note_names": ["c", "d", "g"]},
 	"ilyaf_10":  {"note_names": ["e", "c", "g", "d"]},
 	"ilyaf_11":  {"note_names": ["f", "a", "c",  "g"]},
